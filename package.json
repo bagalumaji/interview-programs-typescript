@@ -1,0 +1,27 @@
+{
+  "name": "interview-programs-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagalumaji/interview-programs-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bagalumaji/interview-programs-typescript/issues"
+  },
+  "homepage": "https://github.com/bagalumaji/interview-programs-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
