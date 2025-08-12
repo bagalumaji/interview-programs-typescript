@@ -1,4 +1,4 @@
-import { reverseString } from "./reverse-string"
+import { reverseString } from "./reverse-string.ts"
 
 const str = "sharannya bagal pandharpur";
 
